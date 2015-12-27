@@ -1,6 +1,6 @@
 {
   "name": "d3-es",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "A collection of reuseable d3 charts built for use with elasticsearch",
   "keywords": [
     "d3"
