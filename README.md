@@ -1,5 +1,7 @@
 # d3-es
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/kiernanmcgowan/d3-es.svg)](https://greenkeeper.io/)
+
 A collection of reusable charts that plug into elasticsearch aggregations. This package is a collection of other plugins. It is possible to just use the sub packages to this library if size is an issue.
 
 ## Installing
